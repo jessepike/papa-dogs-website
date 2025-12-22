@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-22T02:25:17.199Z",
+  "lastUpdated": "2025-12-22T02:25:19.000Z",
   "announcement": {
     "enabled": false,
     "message": "Stay tuned for our upcoming rewards program!",
@@ -84,14 +84,18 @@
     }
   ],
   "hours": {
-    "season": "Test Season",
+    "season": "Winter",
     "schedule": [
       {
-        "days": "Monday-Friday",
-        "hours": "10am - 6pm"
+        "days": "Monday - Friday",
+        "hours": "9am - 5pm"
       },
       {
-        "days": "Saturday-Sunday",
+        "days": "Saturday",
+        "hours": "9am - 5pm"
+      },
+      {
+        "days": "Sunday",
         "hours": "Closed"
       }
     ]
