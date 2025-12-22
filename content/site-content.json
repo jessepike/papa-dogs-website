@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-22T02:19:04.099Z",
+  "lastUpdated": "2025-12-22T02:25:09.450Z",
   "announcement": {
     "enabled": false,
     "message": "Stay tuned for our upcoming rewards program!",
@@ -53,8 +53,8 @@
       "id": "soup",
       "displayOrder": 2,
       "eyebrow": "'TIS THE SEASON!",
-      "title": "It's Homemade Soup Time",
-      "description": "Come in for our weekly rotation of homemade goodness! Small batches ensure quality, but limit availability. Get them while they last.",
+      "title": "TEST: Automated Test Soup",
+      "description": "This is a test update. Will be reverted immediately.",
       "imageSrc": "/images/soup-potato.jpg",
       "imageAlt": "Homemade soup",
       "ctaText": "ORDER NOW!",
