@@ -1,0 +1,142 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-21T00:00:00Z",
+  "announcement": {
+    "enabled": false,
+    "message": "Stay tuned for our upcoming rewards program!",
+    "linkUrl": "/rewards",
+    "linkText": "Learn More"
+  },
+  "hero": {
+    "title": "Made to Order",
+    "subtitle": "Handcrafted happiness in Every Bite",
+    "ctaText": "CALL IN ORDER",
+    "ctaPhone": "530-623-3690"
+  },
+  "carousel": {
+    "images": [
+      {
+        "src": "/images/carousel/trinami-1-zoom.png",
+        "alt": "Papa Dogs signature Trinami sandwich",
+        "displayOrder": 1
+      },
+      {
+        "src": "/images/carousel/pd-sandwich-1.jpg",
+        "alt": "Fresh handcrafted sandwich",
+        "displayOrder": 2
+      },
+      {
+        "src": "/images/carousel/stacked-sandwich.png",
+        "alt": "Stacked deli sandwich",
+        "displayOrder": 3
+      },
+      {
+        "src": "/images/carousel/trinami-1-sm.jpeg",
+        "alt": "The Trinami - smoked tri-tip perfection",
+        "displayOrder": 4
+      }
+    ]
+  },
+  "featuredItems": [
+    {
+      "id": "trinami",
+      "displayOrder": 1,
+      "eyebrow": "Local Favorite",
+      "title": "The Trinami",
+      "description": "Smoked Tri-tip, pastrami, and turkey stacked with pepperoncinis, purple onions, pickles, our special sauce, and grilled to perfection. Served with au jus.",
+      "imageSrc": "/images/carousel/trinami-1-zoom.png",
+      "imageAlt": "The Trinami - Papa Dogs signature sandwich",
+      "ctaText": "ORDER NOW!",
+      "ctaUrl": "tel:530-623-3690"
+    },
+    {
+      "id": "soup",
+      "displayOrder": 2,
+      "eyebrow": "'TIS THE SEASON!",
+      "title": "It's Homemade Soup Time",
+      "description": "Come in for our weekly rotation of homemade goodness! Small batches ensure quality, but limit availability. Get them while they last.",
+      "imageSrc": "/images/soup-potato.jpg",
+      "imageAlt": "Homemade soup",
+      "ctaText": "ORDER NOW!",
+      "ctaUrl": "tel:530-623-3690"
+    },
+    {
+      "id": "beers",
+      "displayOrder": 3,
+      "eyebrow": "Largest Selection of Beers in Trinity County",
+      "title": "Our Beers",
+      "description": "20 taps of beer, cider, kombucha, and draft root beer guarantee ice cold freshness!",
+      "imageSrc": "/images/beers.png",
+      "imageAlt": "Papa Dogs beer selection",
+      "ctaText": "See Our Beer List",
+      "ctaUrl": "#menu"
+    },
+    {
+      "id": "drinks",
+      "displayOrder": 4,
+      "eyebrow": "Something for everyone",
+      "title": "Drinks for Every Thirst",
+      "description": "Choose the perfect drink from our cooler full of over a 100 options, plus fresh squeezed lemonade, red bull mixes, homemade shakes, icees, and more!",
+      "imageSrc": "/images/cooler-drinks-generic.webp",
+      "imageAlt": "Drink cooler selection",
+      "ctaText": "Visit Us Today",
+      "ctaUrl": "tel:530-623-3690"
+    }
+  ],
+  "hours": {
+    "season": "Winter",
+    "schedule": [
+      {
+        "days": "Monday - Friday",
+        "hours": "9am - 5pm"
+      },
+      {
+        "days": "Saturday",
+        "hours": "9am - 5pm"
+      },
+      {
+        "days": "Sunday",
+        "hours": "Closed"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "530-623-3690",
+    "address": {
+      "street": "201 Trinity Lakes Blvd",
+      "city": "Weaverville",
+      "state": "CA",
+      "zip": "96093"
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/_papadogs_/?hl=en",
+      "facebook": "https://www.facebook.com/cornermart/"
+    }
+  },
+  "seo": {
+    "title": "Papa Dogs Taphouse & Deli | Weaverville, Trinity County, CA",
+    "description": "Papa Dogs is Weaverville's favorite taphouse and deli in Trinity County, California. Handcrafted sandwiches, slow-smoked tri-tip, 20 craft beers on tap, homemade soups, and family-friendly outdoor dining. Local favorite since 2008.",
+    "keywords": [
+      "Papa Dogs",
+      "Weaverville restaurant",
+      "Trinity County food",
+      "Trinity County taphouse",
+      "Trinity County deli",
+      "California craft beer",
+      "Northern California dining",
+      "Trinity Alps food",
+      "Weaverville deli",
+      "slow-smoked tri-tip",
+      "craft beer taphouse",
+      "family restaurant Weaverville",
+      "outdoor dining California",
+      "Trinity River dining",
+      "Weaverville craft beer",
+      "California sandwiches",
+      "Northern California taphouse",
+      "Weaverville lunch",
+      "Trinity County brewery",
+      "outdoor seating restaurant"
+    ]
+  }
+}
