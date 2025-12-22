@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-22T02:25:11.471Z",
+  "lastUpdated": "2025-12-22T02:25:13.414Z",
   "announcement": {
     "enabled": true,
     "message": "TEST: Automated test announcement",
@@ -84,18 +84,14 @@
     }
   ],
   "hours": {
-    "season": "Winter",
+    "season": "Test Season",
     "schedule": [
       {
-        "days": "Monday - Friday",
-        "hours": "9am - 5pm"
+        "days": "Monday-Friday",
+        "hours": "10am - 6pm"
       },
       {
-        "days": "Saturday",
-        "hours": "9am - 5pm"
-      },
-      {
-        "days": "Sunday",
+        "days": "Saturday-Sunday",
         "hours": "Closed"
       }
     ]
