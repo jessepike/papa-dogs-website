@@ -4,6 +4,7 @@ import HeroCarousel from '@/components/marketing/hero-carousel';
 import AnnouncementBanner from '@/components/marketing/announcement-banner';
 import FeaturedItemCard from '@/components/marketing/featured-item';
 import HoursSection from '@/components/marketing/hours-section';
+import ScrollHandler from '@/components/scroll-handler';
 import { loadSiteContent } from '@/components/content-loader';
 
 export default function Home() {
@@ -64,6 +65,7 @@ export default function Home() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
 
+      <ScrollHandler />
       <AnnouncementBanner announcement={content.announcement} />
       <Navigation />
 

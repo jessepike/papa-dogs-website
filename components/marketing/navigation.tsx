@@ -29,13 +29,13 @@ export default function Navigation() {
             <Link href="/menu" className="text-foreground hover:text-primary font-semibold transition-colors">
               Menu
             </Link>
-            <Link href="#catering" className="text-foreground hover:text-primary font-semibold transition-colors">
+            <Link href="/catering" className="text-foreground hover:text-primary font-semibold transition-colors">
               Catering
             </Link>
             <Link href="/rewards" className="text-foreground hover:text-primary font-semibold transition-colors">
               Rewards
             </Link>
-            <Link href="#locations" className="text-foreground hover:text-primary font-semibold transition-colors">
+            <Link href="/?scroll=locations" className="text-foreground hover:text-primary font-semibold transition-colors">
               Hours
             </Link>
             <a href="tel:530-623-3690" className="bg-primary text-primary-foreground px-6 py-3 rounded-lg font-bold hover:bg-primary/90 transition-all shadow-md hover:shadow-lg">
@@ -58,13 +58,13 @@ export default function Navigation() {
             <Link href="/menu" className="block text-foreground hover:text-primary font-semibold py-2">
               Menu
             </Link>
-            <Link href="#catering" className="block text-foreground hover:text-primary font-semibold py-2">
+            <Link href="/catering" className="block text-foreground hover:text-primary font-semibold py-2">
               Catering
             </Link>
             <Link href="/rewards" className="block text-foreground hover:text-primary font-semibold py-2">
               Rewards
             </Link>
-            <Link href="#locations" className="block text-foreground hover:text-primary font-semibold py-2">
+            <Link href="/?scroll=locations" className="block text-foreground hover:text-primary font-semibold py-2">
               Hours
             </Link>
             <a href="tel:530-623-3690" className="block w-full bg-primary text-primary-foreground px-6 py-3 rounded-lg font-bold hover:bg-primary/90 transition-all text-center">

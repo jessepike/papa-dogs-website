@@ -30,10 +30,10 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-bold text-white mb-4">Quick Links</h3>
             <ul className="space-y-2">
-              <li><Link href="#menu" className="hover:text-primary transition-colors text-white">Menu</Link></li>
-              <li><Link href="#locations" className="hover:text-primary transition-colors text-white">Beers</Link></li>
-              <li><Link href="#catering" className="hover:text-primary transition-colors text-white">Catering</Link></li>
-              <li><Link href="#rewards" className="hover:text-primary transition-colors text-white">Rewards</Link></li>
+              <li><Link href="/menu" className="hover:text-primary transition-colors text-white">Menu</Link></li>
+              <li><Link href="/menu" className="hover:text-primary transition-colors text-white">Beers</Link></li>
+              <li><Link href="/catering" className="hover:text-primary transition-colors text-white">Catering</Link></li>
+              <li><Link href="/rewards" className="hover:text-primary transition-colors text-white">Rewards</Link></li>
             </ul>
           </div>
 
@@ -41,9 +41,9 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-bold text-white mb-4">Company</h3>
             <ul className="space-y-2">
-              <li><Link href="#about" className="hover:text-primary transition-colors text-white">About</Link></li>
-              <li><Link href="#contact" className="hover:text-primary transition-colors text-white">Contact</Link></li>
-              <li><Link href="#community" className="hover:text-primary transition-colors text-white">Community</Link></li>
+              <li><Link href="/about" className="hover:text-primary transition-colors text-white">About</Link></li>
+              <li><Link href="/contact" className="hover:text-primary transition-colors text-white">Contact</Link></li>
+              <li><Link href="/community" className="hover:text-primary transition-colors text-white">Community</Link></li>
             </ul>
           </div>
 
